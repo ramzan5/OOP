@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1616113535 source:c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\number and frquency\main.cpp
+	<iostream>
+	"Enor.h"
+
+1616113759 source:c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\number and frquency\enor.cpp
+	"Enor.h"
+
+1616112185 c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\number and frquency\enor.h
+	<string>
+	<fstream>
+
