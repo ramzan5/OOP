@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1617748025 source:c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\question(3,4,6)\main.cpp
+	<iostream>
+	"question3a.h"
+	"question3b.h"
+	"question3.h"
+	<string>
+
+1617737262 source:c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\question(3,4,6)\question3a.cpp
+	"question3a.h"
+
+1617735875 c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\question(3,4,6)\question3a.h
+	<string>
+	<fstream>
+	<sstream>
+
+1617741145 source:c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\question(3,4,6)\question3b.cpp
+	"question3b.h"
+
+1617740916 c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\question(3,4,6)\question3b.h
+	<string>
+	<fstream>
+	<sstream>
+
+1617741006 source:c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\question(3,4,6)\question3.cpp
+	"question3.h"
+
+1617739418 c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\question(3,4,6)\question3.h
+	"question3b.h"
+

@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1617734208 source:c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\oop assignment(2nd)\main.cpp
+	<iostream>
+	"contest.h"
+	"contest1.h"
+	"question5a.h"
+	"question5b.h"
+	"question10a.h"
+	"question10b.h"
+
+1616948474 source:c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\oop assignment(2nd)\contest.cpp
+	"contest.h"
+
+1616767250 c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\oop assignment(2nd)\contest.h
+	<string>
+	<fstream>
+	<sstream>
+
+1616952161 source:c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\oop assignment(2nd)\enor2.cpp
+	"Enor2.h"
+	"contest.h"
+
+1616961748 c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\oop assignment(2nd)\enor2.h
+	<string>
+	<fstream>
+	<sstream>
+	"contest.h"
+
+1617221410 source:c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\oop assignment(2nd)\contest1.cpp
+	"contest1.h"
+
+1617196702 c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\oop assignment(2nd)\contest1.h
+	<string>
+	<fstream>
+	<sstream>
+
+1617530975 source:c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\oop assignment(2nd)\question5a.cpp
+	"question5a.h"
+
+1617530312 c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\oop assignment(2nd)\question5a.h
+	<string>
+	<fstream>
+	<sstream>
+
+1617534226 source:c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\oop assignment(2nd)\question5b.cpp
+	"question5b.h"
+
+1617533651 c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\oop assignment(2nd)\question5b.h
+	<string>
+	"question5a.h"
+
+1617730309 source:c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\oop assignment(2nd)\question10a.cpp
+	"question10a.h"
+
+1617723851 c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\oop assignment(2nd)\question10a.h
+	<string>
+	<sstream>
+	<fstream>
+
+1617733555 source:c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\oop assignment(2nd)\question10b.cpp
+	"question10b.h"
+
+1617733157 c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\oop assignment(2nd)\question10b.h
+	<string>
+	"question10a.h"
+

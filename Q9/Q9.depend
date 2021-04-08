@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1617753345 source:c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\q9\main.cpp
+	<iostream>
+	"contest.h"
+	<string>
+
+1617753345 c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\q9\contest.h
+	<string>
+	<fstream>
+	<sstream>
+
+1617753366 source:c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\q9\contest.cpp
+	"contest.h"
+
