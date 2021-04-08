@@ -1,0 +1,6 @@
+2018 HACM Pascal 89 Python 1 Haskell 42
+2018 SyrianACM Fortran 4 Python 12
+2019 HACM Pascal 72 Java 28 C++ 102 Haskell 64
+2019 CentralEuropeACM Java 87 
+2019 IndianACM C 244 Python 325 Fortran 342
+2020 HACM Pascal 42 Java 38 C++ 82 Haskell 76 Python 12

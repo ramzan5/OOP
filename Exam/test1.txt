@@ -1,0 +1,6 @@
+Customer1 YamahaAxis50 oilchange 20 motorblock 97 cablesealing 10
+Customer1 YamahaAerox90 variator 100 cablesealing 10
+Customer2 YamahaYBR125 motorblock 110 cablesealing 10 oilchange 20
+Customer2 YamahaYZF-RM1 motorblock 120
+Customer3 YamahaMT09 cablesealing 100
+Customer4 YamahaMT09 cablesealing 10 oilchange 20 variator 125
