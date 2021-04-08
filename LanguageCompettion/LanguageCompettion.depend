@@ -1,9 +1,10 @@
 # depslib dependency file v1.0
-1617892210 source:c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\languagecompettion\main.cpp
+1617914189 source:c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\languagecompettion\main.cpp
 	<iostream>
 	<string>
 	"competition.h"
 	"Enor.h"
+	"Enor1.h"
 
 1617892134 source:c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\languagecompettion\competition.cpp
 	"competition.h"
@@ -21,7 +22,7 @@
 	<string>
 	<sstream>
 
-1617894452 source:c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\languagecompettion\enor1.cpp
+1617914136 source:c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\languagecompettion\enor1.cpp
 	"Enor1.h"
 
 1617894439 c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\languagecompettion\enor1.h

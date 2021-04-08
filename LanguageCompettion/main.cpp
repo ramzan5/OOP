@@ -41,7 +41,7 @@ void SolutionFor5(const string &file){
         cout<<"In " <<year<<" at most 3 correct solutions were obtained in Fortran"<<endl;
     }
     else{
-        cout<<"The is not any year when at most 3 correct solutions were obtained in Fortran"<<endl;
+        cout<<"There is not any year when at most 3 correct solutions were obtained in Fortran"<<endl;
     }
 }
 int main()
