@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1617966530 source:c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\pn8uom(mid_term)\main.cpp
+	<iostream>
+	<string>
+	"Enor1.h"
+	"Enor2.h"
+
+1617963713 source:c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\pn8uom(mid_term)\enor1.cpp
+	"Enor1.h"
+
+1617962996 c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\pn8uom(mid_term)\enor1.h
+	<string>
+	<fstream>
+	<sstream>
+
+1617963936 c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\pn8uom(mid_term)\enor2.h
+	"Enor1.h"
+
+1617964812 source:c:\users\muhammad ramzan\onedrive\documents\3rd semester\oop practice\pn8uom(mid_term)\enor2.cpp
+	"Enor2.h"
+
